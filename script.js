@@ -26,7 +26,8 @@ info("Os vingadores" , "Até que durou")
 //Bônus:
 
 //5 - crie uma função que retorne o triplo do número recebido no parâmetro da função
+
 function triplo(num1) {
-    console.log(num1 = 1 * 3)
+    console.log(num1 *= 3)
   }
-  triplo()
+  triplo("1")
